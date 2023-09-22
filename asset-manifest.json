@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FinanceFrontend/static/css/main.7a039cba.css",
+    "main.js": "/FinanceFrontend/static/js/main.bdcbff8c.js",
+    "static/js/498.08e1e2c8.chunk.js": "/FinanceFrontend/static/js/498.08e1e2c8.chunk.js",
+    "static/js/703.f2c60403.chunk.js": "/FinanceFrontend/static/js/703.f2c60403.chunk.js",
+    "static/js/513.d42baf2a.chunk.js": "/FinanceFrontend/static/js/513.d42baf2a.chunk.js",
+    "static/media/income.png": "/FinanceFrontend/static/media/income.595ed27d66084fc8a3f0.png",
+    "static/media/defaultAvatar2.jpg": "/FinanceFrontend/static/media/defaultAvatar2.f030556996f46713a742.jpg",
+    "static/media/PieChart.png": "/FinanceFrontend/static/media/PieChart.971e72b4bee260d8b2fe.png",
+    "static/media/defaultAvatar.png": "/FinanceFrontend/static/media/defaultAvatar.ea445d2c672e3b35c46c.png",
+    "static/media/receipt.png": "/FinanceFrontend/static/media/receipt.523cfa6739ef86b02689.png",
+    "static/media/addExpense.png": "/FinanceFrontend/static/media/addExpense.6f16574f79805afcc04b.png",
+    "static/media/AreaChart.png": "/FinanceFrontend/static/media/AreaChart.0f02da3d42b92632bbbb.png",
+    "static/media/drinkman.svg": "/FinanceFrontend/static/media/drinkman.954547bd90f4e8c60cc311bd47642588.svg",
+    "static/media/drinkwoman.svg": "/FinanceFrontend/static/media/drinkwoman.f8e8c923183249f6a1fa1273cc60d1c4.svg",
+    "index.html": "/FinanceFrontend/index.html",
+    "main.7a039cba.css.map": "/FinanceFrontend/static/css/main.7a039cba.css.map",
+    "main.bdcbff8c.js.map": "/FinanceFrontend/static/js/main.bdcbff8c.js.map",
+    "498.08e1e2c8.chunk.js.map": "/FinanceFrontend/static/js/498.08e1e2c8.chunk.js.map",
+    "703.f2c60403.chunk.js.map": "/FinanceFrontend/static/js/703.f2c60403.chunk.js.map",
+    "513.d42baf2a.chunk.js.map": "/FinanceFrontend/static/js/513.d42baf2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a039cba.css",
+    "static/js/main.bdcbff8c.js"
+  ]
+}
